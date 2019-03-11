@@ -15,11 +15,13 @@
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "morgan": "^1.9.1",
+    "newrelic": "^5.6.0",
     "nodemon": "^1.18.10",
     "react": "^16.8.2",
     "react-dom": "^16.8.2"
   },
   "devDependencies": {
-    "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor"
+    "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor",
+    "http-proxy-middleware": "^0.19.1"
   }
 }
